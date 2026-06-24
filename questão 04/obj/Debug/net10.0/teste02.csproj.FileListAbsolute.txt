@@ -1,0 +1,14 @@
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\bin\Debug\net10.0\teste02.exe
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\bin\Debug\net10.0\teste02.deps.json
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\bin\Debug\net10.0\teste02.runtimeconfig.json
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\bin\Debug\net10.0\teste02.dll
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\bin\Debug\net10.0\teste02.pdb
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.AssemblyInfoInputs.cache
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.AssemblyInfo.cs
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.csproj.CoreCompileInputs.cache
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.dll
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\refint\teste02.dll
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.pdb
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\teste02.genruntimeconfig.cache
+C:\Users\thiagosilva\Documents\TESTE DE MESA POR ITERAÇÃO\teste02\obj\Debug\net10.0\ref\teste02.dll
